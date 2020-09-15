@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<sweets>
+    <sweet><type>Milka</type><price>0.9</price></sweet>
+    <sweet><type>7 days</type><price>1.2</price></sweet>
+     <sweet><type>Nutella</type><price>5.3</price></sweet>
+    <sweet><type>Bounty</type><price>0.5</price></sweet>
+    <sweet><type>Orbit</type><price>1</price></sweet>
+    <sweet><type>Snickers</type><price>0.7</price></sweet>
+    <sweet><type>Mars</type><price>0.45</price></sweet>
+    <sweet><type>Raffaello</type><price>3.8</price></sweet>
+</sweets>
